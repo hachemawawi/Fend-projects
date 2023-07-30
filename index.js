@@ -4,7 +4,7 @@
 // space, scary, military, romantic, cowboy, fantasy, superhero
 favouriteMovieGenre("space")
 // watermelon, tomato, banana, orange, avocado, blueberry
-favouriteFruit("blueberry")
+favouriteFruit("orange")
 
 // light, dark
 favouriteMode("dark")
